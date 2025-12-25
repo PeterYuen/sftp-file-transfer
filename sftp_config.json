@@ -1,0 +1,8 @@
+{
+  "host": "hostname", //Replace with your actual sftp hostname
+  "port": 222,  //Replace with your actual sftp port
+  "username": "username", //Replace with your actual username
+  "remote_path": "/source_path/New", //Replace with your source path
+  "backup_path": "/source_path/Backup", //Replace with your backup source path
+  "local_path": "X:/target_directory" //Replace with your target file directory (local)
+}
